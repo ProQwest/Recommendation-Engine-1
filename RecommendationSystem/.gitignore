@@ -1,0 +1,8 @@
+/bin
+.log
+.cache
+.project
+.settings
+.DS_Store
+.classpath
+
